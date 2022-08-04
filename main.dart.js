@@ -54270,7 +54270,7 @@ A.GI.prototype={
 R(a,b){var s=null,r=t.w,q=t.E
 return new A.uQ(A.a9u(A.zf(A.je(A.a([new A.hi(B.dW,A.oj(A.a([new A.rI(1,B.xh,A.zf(new A.zi(B.to,b.a4(r).f.a.a*0.15,s),s,s),s),new A.AE(1,B.kA,A.a4Y(s,s,B.EX,!0,s,A.Yl(B.zF,A.vB(s,s,B.j,s,s,s,s,s,s,s,s,b.a4(r).f.a.a*0.03,s,s,s,s,!0,s,s,s,s,s,s,s,s),"Hello,\n\nMy name is"),B.dp,s,s,1,B.b5),s)],q),B.eA,B.T),s),B.rC,new A.hi(B.dW,A.oj(A.a([A.Qo("assets/icons/flutter.png",100,100),B.Ir],q),B.da,B.T),s),B.Eb,new A.hW(A.je(A.a([B.tn,B.dm,A.oj(B.zj,B.eA,B.T)],q),B.ak,B.T),s),B.cp,new A.hW(A.je(B.yX,B.ak,B.T),s),B.cp,new A.hW(A.je(B.yL,B.ak,B.T),s),B.cp,new A.hW(A.je(B.z3,B.ak,B.T),s),B.cp,new A.hi(B.dW,A.oj(A.a([A.Qo("assets/icons/android.png",100,100),B.Io],q),B.da,B.T),s),B.Ea,new A.hW(A.je(B.zh,B.ak,B.T),s),B.cp,B.uD,B.dm,A.oj(B.zD,B.eA,B.T),B.dm,B.uC],q),B.ak,B.pS),s,s)),B.r,s)}}
 A.BT.prototype={
-R(a,b){return new A.ty(B.xr,"Flutter Demo",A.a9J(null,B.pX,B.Id),null)}}
+R(a,b){return new A.ty(B.xr,"Pierre's Portfolio",A.a9J(null,B.pX,B.Id),null)}}
 A.li.prototype={
 R(a,b){var s=null
 return A.QK(!1,!0,A.Qo(this.c,100,s),s,!0,s,s,s,s,s,s,s,s,s,new A.RC(this),s)}}
